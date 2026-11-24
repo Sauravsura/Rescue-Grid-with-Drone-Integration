@@ -1,0 +1,266 @@
+%PDF-1.4
+%ту╧╙
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R 8 0 R 10 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Length 2060 >>
+stream
+BT
+/F2 20 Tf
+1 0 0 1 50 740 Tm
+(DISASTER RESCUE INTELLIGENCE REPORT) Tj
+/F1 10 Tf
+1 0 0 1 50 710 Tm
+(OFFICIAL SITUATIONAL ASSESSMENT - FOR AUTHORIZED RESPONDERS) Tj
+/F1 10 Tf
+1 0 0 1 50 696 Tm
+(Generated: 2026-11-24 17:28:35 UTC) Tj
+/F2 14 Tf
+1 0 0 1 50 672 Tm
+(SECTION 1: INCIDENT IDENTIFICATION) Tj
+/F1 10 Tf
+1 0 0 1 50 650 Tm
+(Incident ID: 6b4fdd98-d1eb-4ee0-a538-6648f663b96c) Tj
+/F1 10 Tf
+1 0 0 1 50 636 Tm
+(Emergency Category: Flood) Tj
+/F1 10 Tf
+1 0 0 1 50 622 Tm
+(Status: UNDER_REVIEW) Tj
+/F1 10 Tf
+1 0 0 1 50 608 Tm
+(Assigned Department: Regional Disaster & Flood Response Agency) Tj
+/F1 10 Tf
+1 0 0 1 50 594 Tm
+(First Reported: 2026-11-24 17:28:22 UTC) Tj
+/F2 14 Tf
+1 0 0 1 50 572 Tm
+(SECTION 2: EXECUTIVE SUMMARY) Tj
+/F1 10 Tf
+1 0 0 1 50 550 Tm
+(Summary: Flood reported at 104 Elm Street, Sector 3. Water is entering our ground floor living room rapidly from the street drain...) Tj
+/F1 10 Tf
+1 0 0 1 50 536 Tm
+(Current Situation: Incident has 8 verified citizen reports. Estimated affected count: 20. Estimated trapped count: 8. Drone surveys conducted: 1.) Tj
+/F1 10 Tf
+1 0 0 1 50 522 Tm
+(Priority Assessment: P1) Tj
+/F1 10 Tf
+1 0 0 1 50 508 Tm
+(Urgency: Priority P1: Critical life safety hazard requiring immediate action) Tj
+/F2 14 Tf
+1 0 0 1 50 486 Tm
+(SECTION 3: CITIZEN SOS REPORTS) Tj
+/F1 10 Tf
+1 0 0 1 50 464 Tm
+(Total Independent Linked Reports: 8) Tj
+/F1 10 Tf
+1 0 0 1 50 450 Tm
+(Total People Reported Affected: 20) Tj
+/F1 10 Tf
+1 0 0 1 50 436 Tm
+(Total People Reported Trapped: 8) Tj
+/F1 10 Tf
+1 0 0 1 50 422 Tm
+(Report Statements:) Tj
+/F1 10 Tf
+1 0 0 1 65 408 Tm
+(Х Report 5518094b: Water is entering our ground floor living room rapidly from the street dr) Tj
+/F1 10 Tf
+1 0 0 1 65 394 Tm
+(Х Report db0ef348: Stranded in vehicle due to high floodwater on Elm Street. Engine stalled.) Tj
+/F1 10 Tf
+1 0 0 1 65 380 Tm
+(Х Report 6d8ffbd7: Urgent! 4 people trapped on the second floor balcony as water reaches 6 f) Tj
+/F1 10 Tf
+1 0 0 1 65 366 Tm
+(Х Report fe436fe1: Flooded road completely blocked with heavy current. Attached photo.) Tj
+ET
+
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 5 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+7 0 obj
+<< /Length 1894 >>
+stream
+BT
+/F2 14 Tf
+1 0 0 1 50 740 Tm
+(SECTION 4: GEOGRAPHIC INFORMATION) Tj
+/F1 10 Tf
+1 0 0 1 50 718 Tm
+(Area Description: Emergency cluster centered at \(37.781, -122.412\)) Tj
+/F1 10 Tf
+1 0 0 1 50 704 Tm
+(Affected Coordinate Points:) Tj
+/F1 10 Tf
+1 0 0 1 65 690 Tm
+(Х \(37.781, -122.412\) - 104 Elm Street, Sector 3) Tj
+/F1 10 Tf
+1 0 0 1 65 676 Tm
+(Х \(37.7818, -122.4128\) - Elm Street & 4th Avenue Intersection) Tj
+/F1 10 Tf
+1 0 0 1 65 662 Tm
+(Х \(37.7825, -122.4115\) - 120 Riverbed Road) Tj
+/F2 14 Tf
+1 0 0 1 50 640 Tm
+(SECTION 5: DRONE SURVEY FINDINGS) Tj
+/F1 10 Tf
+1 0 0 1 50 618 Tm
+(Surveys Executed: 1) Tj
+/F1 10 Tf
+1 0 0 1 50 604 Tm
+(Verified Human Sightings: 1) Tj
+/F1 10 Tf
+1 0 0 1 50 590 Tm
+(Hazards and Obstacles Detected: 0) Tj
+/F1 10 Tf
+1 0 0 1 50 576 Tm
+(Survey Observations:) Tj
+/F1 10 Tf
+1 0 0 1 65 562 Tm
+(Х [PILOT]: Confirmed sighting: 4 persons on 2nd floor balcony waving white cloth. Safe from imme) Tj
+/F1 10 Tf
+1 0 0 1 65 548 Tm
+(Х [PILOT]: North access road submerged past culvert. South-west canal corridor clear for rescue ) Tj
+/F2 14 Tf
+1 0 0 1 50 526 Tm
+(SECTION 6: AI SITUATIONAL ANALYSIS) Tj
+/F1 10 Tf
+1 0 0 1 50 504 Tm
+(Risk & Priority Assessment: Recommended Priority: P1. Risk Score: 88/100 based on water level and trapped persons.) Tj
+/F1 10 Tf
+1 0 0 1 50 490 Tm
+(Model Confidence: 85.0%) Tj
+/F1 10 Tf
+1 0 0 1 50 476 Tm
+(Priority Actions Identified by AI:) Tj
+/F1 10 Tf
+1 0 0 1 65 462 Tm
+(Х Deploy watercraft to extract stranded victims identified at rooftop sectors.) Tj
+/F1 10 Tf
+1 0 0 1 65 448 Tm
+(Х Isolate electrical substation to prevent submerged power grid casualties.) Tj
+/F1 10 Tf
+1 0 0 1 50 434 Tm
+(Identified Uncertainties:) Tj
+/F1 10 Tf
+1 0 0 1 65 420 Tm
+(Х Submerged debris depth unconfirmed by optical camera.) Tj
+/F1 10 Tf
+1 0 0 1 65 406 Tm
+(Х Structural stability of inundated foundations requires qualified field engineer verification.) Tj
+ET
+
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 7 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+9 0 obj
+<< /Length 2275 >>
+stream
+BT
+/F2 14 Tf
+1 0 0 1 50 740 Tm
+(SECTION 7: SUGGESTED RESCUE PLANNING INFORMATION) Tj
+/F1 10 Tf
+1 0 0 1 50 718 Tm
+(Access Routes:) Tj
+/F1 10 Tf
+1 0 0 1 65 704 Tm
+(Х Northern high-elevation approach road passable for heavy rescue vehicles.) Tj
+/F1 10 Tf
+1 0 0 1 65 690 Tm
+(Х Canal corridor navigable by shallow-draft rescue inflatables.) Tj
+/F1 10 Tf
+1 0 0 1 50 676 Tm
+(Recommended Rescue Equipment:) Tj
+/F1 10 Tf
+1 0 0 1 65 662 Tm
+(Х Rescue boats \(inflatables or rigid hull\)) Tj
+/F1 10 Tf
+1 0 0 1 65 648 Tm
+(Х Personal Flotation Devices \(PFDs\) - 20 units) Tj
+/F1 10 Tf
+1 0 0 1 65 634 Tm
+(Х Thermal imaging ground cameras) Tj
+/F1 10 Tf
+1 0 0 1 65 620 Tm
+(Х Portable emergency de-watering pumps) Tj
+/F1 10 Tf
+1 0 0 1 50 606 Tm
+(Next Steps for Responders:) Tj
+/F1 10 Tf
+1 0 0 1 65 592 Tm
+(Х Establish Incident Command Post \(ICP\) at north staging point.) Tj
+/F1 10 Tf
+1 0 0 1 65 578 Tm
+(Х Initiate boat extraction teams for stranded citizen locations.) Tj
+/F1 10 Tf
+1 0 0 1 65 564 Tm
+(Х Brief medical responders at designated triage zone.) Tj
+/F2 14 Tf
+1 0 0 1 50 542 Tm
+(SECTION 8: EVIDENCE AND AUDIT TRAIL) Tj
+/F1 10 Tf
+1 0 0 1 50 520 Tm
+(Linked Report IDs: 5518094b, db0ef348, 6d8ffbd7, fe436fe1, 46f7c70b, 3daa1d5c, 5b730860, 6e0a57ef) Tj
+/F1 10 Tf
+1 0 0 1 50 506 Tm
+(Observation IDs: e516602f, f7803081) Tj
+/F1 10 Tf
+1 0 0 1 50 492 Tm
+(Officer Decisions Audit Log:) Tj
+/F1 10 Tf
+1 0 0 1 65 478 Tm
+(Х [INCIDENT_ASSIGNED_TO_DEPARTMENT]: {'department_id': 'dca3d6d0-8333-4c61-ac53-d80864f89164', 'department_) Tj
+/F1 10 Tf
+1 0 0 1 65 464 Tm
+(Х [REPORT_CANDIDATE_LINK_SUGGESTED]: {'report_id': '6638ca5f-1b85-48cd-a713-84b32cfc0f44', 'confidence': 0.) Tj
+/F1 10 Tf
+1 0 0 1 65 450 Tm
+(Х [REPORT_LINKED_TO_INCIDENT]: {'report_id': '6e0a57ef-18c1-4072-aadb-8be0eac2267f', 'confidence': 0.) Tj
+/F2 14 Tf
+1 0 0 1 50 428 Tm
+(SECTION 9: OPERATIONAL DISCLAIMER) Tj
+/F1 10 Tf
+1 0 0 1 50 406 Tm
+(IMPORTANT DISCLAIMER: This rescue intelligence report combines citizen emergency reports, manual drone pilot findings, and AI decision-support analysis. AI analysis is strictly advisory. Suggested routes, hazards, and equipment must be verified in the field by qualified incident commanders and emergency responders. No unverified AI detection represents a confirmed rescue fact.) Tj
+ET
+
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 9 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000134 00000 n 
+0000000204 00000 n 
+0000000279 00000 n 
+0000002391 00000 n 
+0000002527 00000 n 
+0000004473 00000 n 
+0000004609 00000 n 
+0000006936 00000 n 
+trailer
+<< /Size 11 /Root 1 0 R >>
+startxref
+7073
+%%EOF
